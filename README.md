@@ -113,3 +113,6 @@ You can also use environment variables (`DB_HOST`, `DB_NAME`, `DB_USER`, `DB_PAS
 - Sales entry (auto stock decrease via DB trigger)
 - Inventory view with low stock highlighting
 - Responsive dashboard UI (coffee-brown + black + light neutral theme)
+
+
+
