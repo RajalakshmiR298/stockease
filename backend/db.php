@@ -5,7 +5,8 @@ $conn = new mysqli(
     $config['db_host'],
     $config['db_user'],
     $config['db_pass'],
-    $config['db_name']
+    $config['db_name'],
+    50109
 );
 
 if ($conn->connect_error) {
