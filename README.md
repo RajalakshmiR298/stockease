@@ -102,15 +102,7 @@ You can also use environment variables (`DB_HOST`, `DB_NAME`, `DB_USER`, `DB_PAS
 5. Ensure PHP sessions are enabled (normally enabled by default).
 6. Open your hosted URL and register/login.
 
-## 5. Security Notes
-
-- Passwords are hashed using `password_hash()`.
-- Login verification uses `password_verify()`.
-- Auth-protected pages use session checks.
-- SQL operations use prepared statements.
-- Delete actions include confirmation prompts.
-
-## 6. Core Features Delivered
+## 5. Core Features Delivered
 
 - User registration/login/logout
 - Dashboard with summary metrics
